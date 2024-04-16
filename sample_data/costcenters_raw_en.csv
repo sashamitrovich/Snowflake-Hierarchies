@@ -1,0 +1,27 @@
+id,name,parentid
+S01000,BSP Inc,
+S02000,Logistics,S01000
+S02200,Energy,S02000
+2210,Electricity,S02200
+2220,Water,S02200
+2230,Gas,S02200
+S02300,Buildings,S02000
+2310,Admin. Buildings,S02300
+2320,Warehouse Buildings,S02300
+2330,Productions Buildings,S02300
+S03000,Admin.,S01000
+3100,General Admin.,S03000
+3200,HR,S03000
+3300,S&D,S03000
+3400,Accounting,S03000
+3500,Purchasing,S03000
+3600,Cafeteria,S03000
+S01100,Management,S01000
+1100,Management,S01100
+S04000,Production,S01000
+S04100,Services,S04000
+4110,Fitter,S04100
+4120,Electrician,S04100
+4130,Painter,S04100
+4210,Production I,S04100
+4220,Production II,S04100
