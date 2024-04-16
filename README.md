@@ -7,7 +7,7 @@ _single point of truth_ which integrates data from many different sources, inclu
 In this scenario, one of the key aspects is using Snowflake to ingest, store and analyze SAP hieararchies. Examples of these hierarchies include multi-level bill of materials (BOMs), parts genealogy, HR organization charts and cost center organization.
 
 A sample cost center hierarchy used in the demo:
-![](/images/CostCenterHierarchy_de.png)
+![](/images/CostCenterHierarchy_en.png)
 
 
 ## Project structure
